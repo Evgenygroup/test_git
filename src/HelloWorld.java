@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("commit3");
         System.out.println("плохой");
         System.out.println("хороший");
+        System.out.println("for soft push");
     }
 }
