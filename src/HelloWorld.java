@@ -5,7 +5,6 @@ public class HelloWorld {
         System.out.println("Hello world !");
         System.out.println("commit3");
         System.out.println("плохой");
-        System.out.println("совсем плохой");
-        System.out.println("совсем üjhjibq");
+        System.out.println("хороший");
     }
 }
