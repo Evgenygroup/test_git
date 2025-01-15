@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("плохой");
         System.out.println("хороший");
         System.out.println("for soft push");
+        System.out.println("for soft push");
     }
 }
